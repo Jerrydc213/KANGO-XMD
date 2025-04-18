@@ -1,7 +1,7 @@
 /*
-  project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
+  project_name : JERRY-𝙓𝙈𝘿 Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : JERRY DC
   Do Not Clone 
 
 
@@ -16,32 +16,32 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~FpJmlBoC#ecWT9pnqlC58Ss3Nz7BXT5c15409uTa3kAr_aNciLgQ' 
 //Enter your 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿' 
+global.botname = process.env.BOT_NAME || 'JERRY-𝙓𝙈𝘿' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '2349122969168' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'JERRY DC' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿" 
+global.packname = process.env.STICKER_PACK_NAME || "JERRY-XMD" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "JERRY" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Accra" 
+global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
 //Don't edit this if you don't know!
 
 //----------------[ GITHUB DATABASE ]-----------------//
@@ -58,17 +58,17 @@ global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> ©JERRY DC™"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
-  done: '*Done*', 
-  success: '> © 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿', 
-  owner: `*You don't have permission to use this command!*`, 
-  group: '*This feature becomes available when you use it in a group!*', 
-  admin: '*You’ll unlock this feature with me as an admin!*', 
-  notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
+  done: '*I don do am*', 
+  success: '> © JERRY-XMD', 
+  owner: `*OGA,U NOR FIT USE THIS COMMAND,REST🌚!*`, 
+  group: '*OGA,NA ONLY GROUP E DEY WORK FOR🌚!*', 
+  admin: '*OGA,MAKE ME ADMIN BEFORE U FIT USE THIS COMMAND🌚!*', 
+  notadmin: '*OGA,U NOR BE ADMIN SO JUST REST OKAY 😂🌚!*' 
 }
 
 //--------------[ DEVELOPER SETTINGS ]---------------//
