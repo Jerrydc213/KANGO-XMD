@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "JERRY-XMD",
   "version": "2.4.1",
-  "description": "The best Whatsapp bot im Ghana",
+  "description": "The best Whatsapp bot in Nigeria",
   "main": "index.js",
   "engines": {
     "node": ">= 20.x",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Hector Manuel",
+  "author": "Jerry Dc",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys@^6.7.16",
